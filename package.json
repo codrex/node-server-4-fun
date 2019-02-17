@@ -1,0 +1,28 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codrex/node-server-4-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codrex/node-server-4-fun/issues"
+  },
+  "homepage": "https://github.com/codrex/node-server-4-fun#readme",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-google": "^0.12.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
